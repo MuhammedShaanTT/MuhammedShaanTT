@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MuhammedShaanTT
-- 👀 I’m interested in Python, Mysql and Database managment
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Python, Mysql and Database managment, CPP
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me muhammedshaantt@gmail.com
+- 📫 How to reach me muhammedshaantt2005@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A person's left Hand does 56% of typing on average
 
